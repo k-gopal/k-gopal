@@ -22,13 +22,13 @@ From - 17/08/2020 To - 10/02/2020
 ## Education
 ### Bachelor of Computer Applications (BCA)
 From - 01/06/2017  To - Present
-** Maharashtra Institute of Technology WPU Pune **
-** CGPA - 9.0 **
+**Maharashtra Institute of Technology WPU Pune**
+**CGPA - 9.0**
 ### HSC
 From - 01/06/2016 To - 30/04/2017
-** Aditya Birla Public School, Awalpur (CBSE) **
-** Percetage - ** 65%
+**Aditya Birla Public School, Awalpur (CBSE)**
+**Percetage -** 65%
 ### SSC
 From - 01/06/2014 To - 30/04/2015
-** Aditya Birla Public School, Awalpur (CBSE) **
-** Percentage - ** 87.20%
+**Aditya Birla Public School, Awalpur (CBSE)**
+**Percentage -** 87.20%

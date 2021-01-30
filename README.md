@@ -26,9 +26,13 @@ From - 01/06/2017  To - Present
 **CGPA - 9.0**
 ### HSC
 From - 01/06/2016 To - 30/04/2017
+
 **Aditya Birla Public School, Awalpur (CBSE)**
+
 **Percetage -** 65%
 ### SSC
 From - 01/06/2014 To - 30/04/2015
+
 **Aditya Birla Public School, Awalpur (CBSE)**
+
 **Percentage -** 87.20%

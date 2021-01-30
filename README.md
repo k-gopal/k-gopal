@@ -1,4 +1,4 @@
-<div align="center"> #Gopal Khichar </div>
+<div align="center"> <h1> Gopal Khichar </h1></div>
 
 <!--
 **k-gopal/k-gopal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

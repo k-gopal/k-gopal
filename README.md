@@ -36,3 +36,21 @@ From - 01/06/2014 To - 30/04/2015
 **Aditya Birla Public School, Awalpur (CBSE)**
 
 **Percentage -** 87.20%
+
+
+
+## Projects
+### Covid Tracker
+This project is about providing details about the ongoing pandemic known as Covid-19.
+* it shows cases worldwide as well as country wise
+* it also sorts the country in a table accrding to total no of cases in ascending order
+* it also depicts the data in form of circles on map
+### ToDo App
+It is a simple Todo App built in React
+* it can add a task to be performed
+* deadlines can be added
+* delete the task once completed
+### Stop Loss & Take Profit
+It is small project where 2 formulas are implemented to calculate a specific result.
+* provides estimated stop loss
+* provides estimated take profit

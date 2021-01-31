@@ -2,6 +2,7 @@
 
 ### Mobile No. - 8928680608                                                  
 ### Email Id. - GKOFFICIAL0605@GMAIL.COM
+### [HackerRank Profile]{https://www.hackerrank.com/gkofficial}
 
 
 
@@ -51,6 +52,24 @@ It is a simple Todo App built in React
 * deadlines can be added
 * delete the task once completed
 ### Stop Loss & Take Profit
-It is small project where 2 formulas are implemented to calculate a specific result.
+It is small project where 2 formulas are implemented to calculate a specific result in stock market.
 * provides estimated stop loss
 * provides estimated take profit
+
+
+
+## Skills
+### Programming
+* JavaScript
+* Python
+* MySQL
+* HTML5 & CSS3
+* MongoDB
+* ReactJs
+* NodeJs
+
+
+
+## Extra Curriculum
+* Volley Ball Team Leader at college level
+* Member of Event Management Club

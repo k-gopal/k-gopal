@@ -2,7 +2,7 @@
 
 ### Mobile No. - 8928680608                                                  
 ### Email Id. - GKOFFICIAL0605@GMAIL.COM
-### [HackerRank Profile]{https://www.hackerrank.com/gkofficial}
+### [HackerRank Profile](https://www.hackerrank.com/gkofficial)
 
 
 

@@ -10,7 +10,7 @@
 I am a Software Development Engineer, exploring Open Source World.
 I have been learning so much lately from these open source code and following up to contribute surely.
 
-<img height="250" width="1000" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+<img height="350" width="1000" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
 
 ## Languages and Tools
